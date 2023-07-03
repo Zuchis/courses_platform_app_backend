@@ -54,3 +54,5 @@ gem 'sorbet', '~> 0.5.10885'
 gem 'solargraph', '~> 0.49.0'
 
 gem 'rubocop', '~> 1.53'
+
+gem 'bundler', '~> 2.4', '>= 2.4.15'
