@@ -55,4 +55,4 @@ gem 'solargraph', '~> 0.49.0'
 
 gem 'rubocop', '~> 1.53'
 
-gem 'bundler', '~> 2.4', '>= 2.4.15'
+gem 'bundler', '~> 2.4', '>= 2.4.14'
