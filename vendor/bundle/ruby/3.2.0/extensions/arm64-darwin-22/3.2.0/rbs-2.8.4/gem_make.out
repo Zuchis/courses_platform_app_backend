@@ -1,0 +1,27 @@
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/rbs-2.8.4/ext/rbs_extension
+/Users/vzuchi/.asdf/installs/ruby/3.2.2/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/rbs-2.8.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20230704-54867-46zkp5 sitelibdir\=./.gem.20230704-54867-46zkp5 clean
+
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/rbs-2.8.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20230704-54867-46zkp5 sitelibdir\=./.gem.20230704-54867-46zkp5
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.bundle
+
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/rbs-2.8.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20230704-54867-46zkp5 sitelibdir\=./.gem.20230704-54867-46zkp5 install
+/usr/bin/install -c -m 0755 rbs_extension.bundle ./.gem.20230704-54867-46zkp5
+
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/rbs-2.8.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20230704-54867-46zkp5 sitelibdir\=./.gem.20230704-54867-46zkp5 clean

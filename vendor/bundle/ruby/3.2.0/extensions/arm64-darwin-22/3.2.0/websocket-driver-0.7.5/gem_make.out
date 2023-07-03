@@ -1,0 +1,18 @@
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/vzuchi/.asdf/installs/ruby/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230704-54867-vtpfkh sitelibdir\=./.gem.20230704-54867-vtpfkh clean
+
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230704-54867-vtpfkh sitelibdir\=./.gem.20230704-54867-vtpfkh
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230704-54867-vtpfkh sitelibdir\=./.gem.20230704-54867-vtpfkh install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230704-54867-vtpfkh
+
+current directory: /Users/vzuchi/web_dev/studies/udemy_clone_rails_study/backend-on-course/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230704-54867-vtpfkh sitelibdir\=./.gem.20230704-54867-vtpfkh clean
