@@ -49,6 +49,11 @@ group :development do
   # gem "spring"
 end
 
+group :production do
+  # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
+  # gem "spring"
+end
+
 gem 'sorbet', '~> 0.5.10885'
 
 gem 'solargraph', '~> 0.49.0'
@@ -56,3 +61,5 @@ gem 'solargraph', '~> 0.49.0'
 gem 'rubocop', '~> 1.53'
 
 gem 'bundler', '~> 2.1.4'
+
+gem "sprockets", "~> 4.2"
