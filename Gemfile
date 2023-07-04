@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-git_source(:github) { |repo| 'https://github.com/#{repo}.git' }
+git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '3.2.2'
 
@@ -52,7 +52,6 @@ end
 group :production do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
-  gem 'sprockets'
 end
 
 gem 'sorbet', '~> 0.5.10885'
@@ -63,4 +62,4 @@ gem 'rubocop', '~> 1.53'
 
 gem 'bundler', '~> 2.4.15'
 
-gem "sprockets", "~> 4.2"
+gem 'sprockets', '~> 4.2'
