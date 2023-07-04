@@ -52,6 +52,7 @@ end
 group :production do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
+  gem 'sprockets'
 end
 
 gem 'sorbet', '~> 0.5.10885'
