@@ -24,8 +24,9 @@ default: &default
 development:
   <<: *default
   database: courses_platform_app_backend_development
+  host: localhost
   username: app_owner
-  password: <%= ENV['COURSES_PLATFORM_APP_BACKEND_DATABASE_PASSWORD'] %>
+  password: B@gue77e
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.

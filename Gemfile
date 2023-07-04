@@ -60,6 +60,6 @@ gem 'solargraph', '~> 0.49.0'
 
 gem 'rubocop', '~> 1.53'
 
-gem 'bundler', '~> 2.1.4'
+gem 'bundler', '~> 2.4.15'
 
 gem "sprockets", "~> 4.2"

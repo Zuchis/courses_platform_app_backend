@@ -1,6 +1,7 @@
 require_relative 'boot'
 
 require 'rails'
+require 'sprockets/railtie'
 require 'rails/all'
 # Pick the frameworks you want:
 # require 'active_model/railtie'
@@ -13,7 +14,6 @@ require 'rails/all'
 # require 'action_text/engine'
 # require 'action_view/railtie'
 # require 'action_cable/engine'
-# require 'sprockets/railtie' #
 # require 'rails/test_unit/railtie'
 
 # Require the gems listed in Gemfile, including any gems
