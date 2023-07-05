@@ -9,7 +9,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins '*'
+    origins '*' # NOTE: change cors configuration after I have the frontend production url
 
     resource '*',
              headers: :any,

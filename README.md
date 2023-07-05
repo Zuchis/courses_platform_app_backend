@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+GraphQL API only backend written in Rails. It serves the [On Course](https://github.com/Zuchis/on-course) online course platform.
 
-Things you may want to cover:
+<!-- * Ruby version -->
 
-* Ruby version
+<!-- * System dependencies -->
 
-* System dependencies
+<!-- * Configuration -->
 
-* Configuration
+<!-- * Database creation -->
 
-* Database creation
+<!-- * Database initialization -->
 
-* Database initialization
+<!-- * How to run the test suite -->
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<!-- * Services (job queues, cache servers, search engines, etc.) -->
